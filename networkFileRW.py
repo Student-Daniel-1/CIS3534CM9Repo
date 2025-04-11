@@ -2,6 +2,9 @@
 #networkFileRW.py
 #Pamela Brauda
 #Thursday, March 3, 2022
+#updated this file for the M9 GitHub
+#this is the update :)
+#Friday, April 11, 2025
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
 
